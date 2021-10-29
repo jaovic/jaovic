@@ -1,5 +1,6 @@
 ## Eai! meu nome é João Victor Martins
-Estudante de desenvolvimento e segurança da informação
+Atualmente estudando JavaScript e PHP e iniciando no Bug Bounty
+##
 
 </div>
 <div style="display: inline_block"><br>
