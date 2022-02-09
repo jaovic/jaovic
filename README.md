@@ -1,20 +1,25 @@
 ## Eai! meu nome é João Victor Martins
 Atualmente estudando JavaScript, TypeScript, Node.js e iniciando no Bug Bounty
 ##
-
-<div align="center">
-  <a href="https://github.com/jaovic">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaovic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovic&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: inline_block">
+    <a href="https://github.com/jaovic">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaovic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    &nbsp
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovic&layout=compact&langs_count=7&theme=dark"/>
+    </br>
+    
+  <img height="450em" src="https://i.imgur.com/lBCTAbO.jpg"/>
+  
 </div>
 
 ##
 
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Joao-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
