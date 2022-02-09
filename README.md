@@ -1,5 +1,5 @@
 ## Eai! meu nome é João Victor Martins
-Atualmente estudando JavaScript, Node.js e iniciando no Bug Bounty
+Atualmente estudando JavaScript, TypeScript, Node.js e iniciando no Bug Bounty
 ##
 
 <div align="center">
