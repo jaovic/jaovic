@@ -1,5 +1,5 @@
 ## Eai! meu nome é João Victor Martins
-Atualmente estudando JavaScript, TypeScript, Node.js e iniciando no Bug Bounty
+Atualmente estudando JavaScript, TypeScript, Node.js e Segurança da Informação
 ##
 <div style="display: inline_block">
     <a href="https://github.com/jaovic">
