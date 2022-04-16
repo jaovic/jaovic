@@ -32,5 +32,4 @@ Atualmente estudando JavaScript, TypeScript, Node.js e Segurança da Informaçã
 <a href="https://www.twitch.tv/xaovic" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/profiles/76561198070976393/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 <a href = "mailto:jvmsf05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martins-22100a164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martins-22100a164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
