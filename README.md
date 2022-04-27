@@ -21,6 +21,9 @@ Conhecimento em Segurança da Informação e Bug-bounty
 
 ##
 
+
+## Tecnologias
+
 </div>
 <div style="display: inline_block">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,6 +43,8 @@ Conhecimento em Segurança da Informação e Bug-bounty
 </div>
 
 ##
+
+## Contato
 
 <div>
 <a href="https://api.whatsapp.com/send/?phone=5531991163672&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
