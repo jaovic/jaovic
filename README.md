@@ -1,5 +1,12 @@
 ## Eai! meu nome é João Victor Martins
-Atualmente estudando JavaScript, TypeScript, Node.js e Segurança da Informação
+Apaixonado por tecnologia e conhecimento
+
+Experiência com Programação Back-end - Microsserviços e API's no setor financeiro
+( JS / TS / Node / Nest / MongoDB / Postgresql / Prisma / TypeORM / Axios / Docker / Linux )
+
+Experiência em Redes - Telecom
+
+Conhecimento em Segurança da Informação e Bug-bounty
 ##
 <div style="display: inline_block">
     <a href="https://github.com/jaovic">
