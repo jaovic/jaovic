@@ -2,7 +2,7 @@
 Apaixonado por tecnologia e conhecimento
 
 Experiência com Programação Back-end - Microsserviços e API's no setor financeiro
-( JS / TS / Node / Express / Nest / MongoDB / Postgresql / Prisma / TypeORM / Axios  / Kafka / Docker / Linux )
+( JS / TS / Node / Express / Nest / MongoDB / Postgresql / Prisma / TypeORM / Axios / Kafka / Docker / Linux / puppeteer )
 
 Experiência em Redes - Telecom (Empresa de Fibra Óptica)
 
