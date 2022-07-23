@@ -14,7 +14,7 @@ Conhecimento em Segurança da Informação e Bug-bounty
     &nbsp
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovic&layout=compact&langs_count=7&theme=dark"/>
     </br>
-    
+   
   <img height="400em" src="https://i.imgur.com/lBCTAbO.jpg"/>
   
 </div>
