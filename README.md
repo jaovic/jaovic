@@ -8,12 +8,15 @@ Experiência em Redes - Telecom (Empresa de Fibra Óptica)
 
 Conhecimento em Segurança da Informação e Bug-bounty
 ##
-<div style="display: inline_block">
-    <a href="https://github.com/jaovic">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaovic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    &nbsp
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovic&layout=compact&langs_count=7&theme=dark"/>
-    </br>
+
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaovic&theme=tokyonight"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaovic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovic&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaovic&theme=tokyonight&hide_border=true"/>
+
+ ##
+</div>
+
+<div align="center">
    
   <img height="400em" src="https://i.imgur.com/lBCTAbO.jpg"/>
   
