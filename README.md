@@ -19,15 +19,6 @@ Conhecimento em Segurança da Informação e Bug-bounty
 
 ##
 
-
-<div align="center">
-   
-  <img height="400em" src="https://i.imgur.com/lBCTAbO.jpg"/>
-  
-</div>
-
-##
-
 ## Tecnologias
 
 </div>
