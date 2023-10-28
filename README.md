@@ -43,13 +43,13 @@ Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em back
 ## Experiência
 
 -   **Backend**: Desenvolvimento de APIs robustas e escaláveis, implementação de segurança da informação e conformidade com regulamentações como LGPD.</br>
--   **Frontend**: Criação de interfaces de usuário atraentes, responsivas e fies ao design, proporcionando experiências de usuário excepcionais.
+-   **Frontend**: Criação de interfaces de usuário atraentes, responsivas e fies ao design.
 -   **Full-Stack**: Integração de componentes frontend e backend para criar aplicativos completos.
 -   **Microsserviços**: Implementação de arquiteturas de microsserviços para escalabilidade e manutenção simplificada.
   
 -   **Segurança da Informação**: Implementação de práticas de segurança, proteção de dados, firewalls e testes de penetração.
 -   **Bug Bounty**: Participação em programas de bug bounty e CTF's, identificando vulnerabilidades e contribuindo para a segurança cibernética.
-- **Redes e Cloud**: Além disso, minha experiência inclui o conhecimento em redes de computadores, administração de redes, configuração de servidores e configuração de serviços em ambientes de cloud, garantindo a conectividade eficiente e confiabilidade dos sistemas em um mundo cada vez mais baseado na nuvem.
+- **Redes e Cloud**: Experiência em redes de computadores, administração de redes, configuração de servidores e configuração de serviços em ambientes de cloud.
 
 ## Contato
 
