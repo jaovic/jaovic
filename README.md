@@ -1,12 +1,11 @@
-## Eai! meu nome é João Victor Martins
-Apaixonado por tecnologia e conhecimento
 
-Experiência com Programação Back-end - Microsserviços e API's no setor financeiro
-( JS / TS / Node / Express / Nest / MongoDB / Postgresql / Prisma / TypeORM / Axios / Kafka / Docker / Swagger / Linux / puppeteer )
+# João Victor Martins - Desenvolvedor Full-Stack e Analista de segurança da informação
 
-Experiência em Redes - Telecom (Empresa de Fibra Óptica)
+## Sobre mim
 
-Conhecimento em Segurança da Informação e Bug-bounty
+Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em backend e segurança da informação. Minha jornada na programação começou com paixão por tecnologia, e ao longo dos anos, adquiri experiência em várias tecnologias e áreas. Eu adoro criar soluções inovadoras e seguras para problemas complexos.
+
+
 ##
 
 <div align="center">
@@ -33,21 +32,28 @@ Conhecimento em Segurança da Informação e Bug-bounty
   <img align="center" alt="Joao-EXPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Joao-MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Joao-POSTGRES" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
   <img align="center" alt="Joao-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Joao-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
+<img align="center" alt="Joao-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="center" alt="Joao-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img align="center" alt="Joao-Kafka.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+          
 </div>
 
-##
+## Experiência
+
+-   **Backend**: Desenvolvimento de APIs robustas e escaláveis, implementação de segurança da informação e conformidade com regulamentações como LGPD.
+-   **Frontend**: Criação de interfaces de usuário atraentes, responsivas e fies ao design, proporcionando experiências de usuário excepcionais.
+-   **Full-Stack**: Integração de componentes frontend e backend para criar aplicativos completos.
+-   **Microsserviços**: Implementação de arquiteturas de microsserviços para escalabilidade e manutenção simplificada.
+-   **Segurança da Informação**: Implementação de práticas de segurança, proteção de dados, firewalls e testes de penetração.
+-   **Bug Bounty**: Participação em programas de bug bounty e CTF's, identificando vulnerabilidades e contribuindo para a segurança cibernética.
+- **Redes e Cloud**: Além disso, minha experiência inclui o conhecimento em redes de computadores, administração de redes, configuração de servidores e configuração de serviços em ambientes de cloud, garantindo a conectividade eficiente e confiabilidade dos sistemas em um mundo cada vez mais baseado na nuvem.
 
 ## Contato
 
 <div>
 <a href="https://api.whatsapp.com/send/?phone=5531997042924&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/joaoviiictoor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/xaovic" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/profiles/76561198070976393/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/joaoviiictoor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></a>
 <a href = "mailto:jvmsf05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martins-22100a164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div> 
