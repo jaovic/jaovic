@@ -50,6 +50,7 @@ Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em back
 -   **Segurança da Informação**: Implementação de práticas de segurança, proteção de dados, firewalls e testes de penetração.
 -   **Bug Bounty**: Participação em programas de bug bounty e CTF's, identificando vulnerabilidades e contribuindo para a segurança cibernética.
 - **Redes e Cloud**: Experiência em redes de computadores, administração de redes, configuração de servidores e configuração de serviços em ambientes de cloud.
+- **Metodologia Ágil**: Tenho um sólido entendimento e experiência na aplicação de metodologias ágeis, como Scrum ou Kanban.
 
 ## Contato
 
