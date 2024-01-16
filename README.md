@@ -22,7 +22,7 @@ Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em back
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,nodejs,express,nestjs,mongodb,docker,linux,vue,nextjs,kafka" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,nodejs,express,nestjs,postgres,mongodb,docker,linux,vue,nextjs,jest,kafka,postman,prisma,raspberrypi" />
   </a>
 </p>
 
