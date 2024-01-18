@@ -3,7 +3,8 @@
 
 ## Sobre mim
 
-Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em backend e segurança da informação. Minha jornada na programação começou com paixão por tecnologia, e ao longo dos anos, adquiri experiência em várias tecnologias e áreas.
+Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em backend e segurança da informação.<br>
+Minha jornada na programação começou com paixão por tecnologia, e ao longo dos anos, adquiri experiência em várias tecnologias e áreas.
 
 
 ##
