@@ -33,7 +33,6 @@ Minha jornada na programação começou com paixão por tecnologia, e ao longo d
 -   **Frontend**: Criação de interfaces de usuário atraentes, responsivas e fies ao design.
 -   **Full-Stack**: Integração de componentes frontend e backend para criar aplicativos completos.
 -   **Microsserviços**: Implementação de arquiteturas de microsserviços para escalabilidade e manutenção simplificada.
-  
 -   **Segurança da Informação**: Implementação de práticas de segurança, proteção de dados, firewalls e testes de penetração.
 -   **Bug Bounty**: Participação em programas de bug bounty e CTF's, identificando vulnerabilidades e contribuindo para a segurança cibernética.
 - **Redes e Cloud**: Experiência em redes de computadores, administração de redes, configuração de servidores e configuração de serviços em ambientes de cloud.
