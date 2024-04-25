@@ -6,7 +6,7 @@ Olá! Eu sou João Victor, desenvolvedor full-stack com um foco especial em back
 Minha jornada na programação começou com paixão por tecnologia, e ao longo dos anos, adquiri experiência em várias tecnologias e áreas.
 
 
-##
+## 
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaovic&theme=tokyonight"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=jaovic&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
