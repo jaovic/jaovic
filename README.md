@@ -21,7 +21,7 @@ Minha jornada na programação começou com paixão por tecnologia, e ao longo d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,nodejs,express,nestjs,postgres,mongodb,docker,linux,vue,nextjs,jest,kafka,postman,prisma,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,nodejs,express,nestjs,postgres,mongodb,docker,linux,react,vue,nextjs,jest,kafka,postman,prisma,raspberrypi" />
   </a>
 </p>
 
