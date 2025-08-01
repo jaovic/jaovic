@@ -32,7 +32,7 @@ Minha jornada na programação começou com paixão por tecnologia, e ao longo d
 -   **Full-Stack**: Integração de componentes frontend e backend para criar aplicativos completos.
 -   **Microsserviços**: Implementação de arquiteturas de microsserviços para escalabilidade e manutenção simplificada.
 -   **Segurança da Informação**: Implementação de práticas de segurança, proteção de dados, firewalls e testes de penetração.
--   **Bug Bounty**: Participação em programas de bug bounty e CTF's, identificando vulnerabilidades e contribuindo para a segurança cibernética.
+-   **Bug Bounty**: Participação em programas de bug bounty e CTF's, identificando vulnerabilidades.
 - **Redes e Cloud**: Experiência em redes de computadores, administração de redes, configuração de servidores e configuração de serviços em ambientes de cloud.
 - **Metodologia Ágil**: Tenho um sólido entendimento e experiência na aplicação de metodologias ágeis, como Scrum ou Kanban.
 
